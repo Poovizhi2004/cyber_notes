@@ -11,5 +11,12 @@ Types:
 5.	Insiders -Many corporations make the mistake of trusting any activity from employees or hired contractors. For example, an insider threat could be a newly disgruntled employee or a person who purposely targets a business or government. Competitor governments or businesses pay insiders to steal intellectual property and trade secrets, but some insider threats aim to simply do damage to their employer. Insider threats have become more common in recent years, inflicting the most damage and being the most difficult to detect since they have legitimate access to infrastructure and data.
 6.	Script Kiddies -Not every threat actor is a skilled attacker. Many scripts, code repositories, and malware are freely downloadable for anyone to use. These threat actors are colloquially known as “script kiddies” since they usually don’t have the technical skills to code or exploit vulnerabilities. Even without coding and hacking skills, script kiddies can still harm an organization’s productivity and private data. A script kiddie can also unknowingly add malware to the environment, thinking they are downloading tools they can control.
 7.	Internal User Mistakes -Insider threats don’t always have malicious intent, but the damage they cause can be just as bad as intentionally targeting the business with an attack. Usually, unintentional damage from an insider threat is associated with phishing. External attackers send phishing emails to insiders, tricking them into opening a malicious attachment or accessing a web page that tricks a targeted employee into divulging their credentials. Because the employee has legitimate access to data, insider threat actors can reveal extensive sensitive data to an attacker.
-
+mitre  attack
+adversial tactics,techniques,common knowledge
+recconnaissense
+host information ,network information-ip address,host,topology,how many connected to that,network details,h/w&s/w network,
+phising- sending fake email -> to access the account of the user -> 
+osint- open source intellegence
+eg: org.,net crack,showdan(scaning iot devices),pimeyes(upload any image -> we can see the information our image is in whole social platforms to check
+wikileaks cyber
 
